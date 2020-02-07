@@ -1,1 +1,2 @@
-
+The 100 keyboards I found with the lowest scores using the touch-typing costs.
+The file is a numpy array containing a list of each keyboard in the form of a ditionary and its score.

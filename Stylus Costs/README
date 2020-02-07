@@ -1,1 +1,2 @@
-
+These are the stylus costs. 
+The file is a numpy array containing a dictionary in which the distance in inches between the key assigned a letter i on the QWERTY layout and teh key assigned j has a key of ij.
